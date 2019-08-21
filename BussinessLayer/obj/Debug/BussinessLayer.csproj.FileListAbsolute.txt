@@ -1,0 +1,8 @@
+C:\Users\Sem\Desktop\mywebapps\myPatisserie\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\Users\Sem\Desktop\mywebapps\myPatisserie\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\Sem\Desktop\mywebapps\myPatisserie\BussinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sem\Desktop\mywebapps\myPatisserie\BussinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sem\Desktop\mywebapps\myPatisserie\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sem\Desktop\mywebapps\myPatisserie\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+C:\Users\Sem\Desktop\mywebapps\myPatisserie\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\Users\Sem\Desktop\mywebapps\myPatisserie\BussinessLayer\obj\Debug\BussinessLayer.pdb
